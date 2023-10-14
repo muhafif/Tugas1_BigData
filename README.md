@@ -75,5 +75,7 @@ melihat hasil import data
 
 -db.data.find() -> melihat data yang sudah dimasukkan ke dalam collection database yang digunakan  
 
+- gambar
+
 ![Img 1](gambar/satu.jpg)
 ![Img 2](gambar/dua.jpg)
