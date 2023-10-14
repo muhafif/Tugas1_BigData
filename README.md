@@ -41,3 +41,36 @@ display(df)
 
 num_tweets = len(df)
 print(f"Jumlah tweet dalam dataframe adalah {num_tweets}.")
+
+# Running container mongodb
+
+-docker start some-mongo
+
+masuk ke mongodb shell 
+
+-docker exec -it some-mongo bash
+
+-mongosh
+
+connect ke Mongo Atlas
+
+-mongosh "link connection ke Mongo Atlas"
+nanti disuruh masukin password akun mongo atlas
+
+membuat database menggunakan MongoDB
+
+-use nama_database
+
+membuat collection dari database yg telah dibuat
+
+-db.createCollection("nama_collection")
+
+import file 
+
+-ss an ajah
+
+melihat hasil import data di MongoDB Shell
+
+melihat hasil import data
+
+-db.data.find() -> melihat data yang sudah dimasukkan ke dalam collection database yang digunakan  
