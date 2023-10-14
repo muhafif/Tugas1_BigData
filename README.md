@@ -74,3 +74,6 @@ melihat hasil import data di MongoDB Shell
 melihat hasil import data
 
 -db.data.find() -> melihat data yang sudah dimasukkan ke dalam collection database yang digunakan  
+
+![Img 1](satu.jpg)
+![Img 2](dua.jpg)
