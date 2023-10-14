@@ -67,8 +67,6 @@ membuat collection dari database yg telah dibuat
 
 import file 
 
--ss an ajah
-
 melihat hasil import data di MongoDB Shell
 
 melihat hasil import data
